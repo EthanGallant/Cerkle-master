@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: db800cc7051935948bcdf6997ad337e0
-timeCreated: 1495061918
+guid: ced7b392bda2d7248932dead14048206
+timeCreated: 1495062546
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: HARD_0
+    21300000: START_0
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -87,12 +87,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HARD_0
+      name: START_0
       rect:
         serializedVersion: 2
-        x: 314
+        x: 313
         y: 271
-        width: 507
+        width: 508
         height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

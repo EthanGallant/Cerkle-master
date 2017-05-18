@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: db800cc7051935948bcdf6997ad337e0
-timeCreated: 1495061918
+guid: 456c7ffa91cd12b4eae735001a929805
+timeCreated: 1494896616
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: HARD_0
+  fileIDToRecycleName: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -85,20 +84,7 @@ TextureImporter:
     overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: HARD_0
-      rect:
-        serializedVersion: 2
-        x: 314
-        y: 271
-        width: 507
-        height: 97
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
+    sprites: []
     outline: []
   spritePackingTag: 
   userData: 

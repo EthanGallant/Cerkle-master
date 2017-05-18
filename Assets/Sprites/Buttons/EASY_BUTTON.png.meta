@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: db800cc7051935948bcdf6997ad337e0
-timeCreated: 1495061918
+guid: ae4b39c5bbad6c740bacb91df026ef1d
+timeCreated: 1495061332
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: HARD_0
+    21300000: EASY_BUTTON_0
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -87,7 +87,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HARD_0
+      name: EASY_BUTTON_0
       rect:
         serializedVersion: 2
         x: 314

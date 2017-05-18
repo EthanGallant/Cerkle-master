@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: db800cc7051935948bcdf6997ad337e0
-timeCreated: 1495061918
+guid: 4e2249c5aa8f4fa4cbcfa0ade60767ee
+timeCreated: 1495062152
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: HARD_0
+    21300000: PLAY_BUTTON 1_0
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -87,13 +87,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HARD_0
+      name: PLAY_BUTTON 1_0
       rect:
         serializedVersion: 2
         x: 314
         y: 271
         width: 507
-        height: 97
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

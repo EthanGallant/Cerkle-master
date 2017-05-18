@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: db800cc7051935948bcdf6997ad337e0
-timeCreated: 1495061918
+guid: 360777b8382455144b05b768c7a34ca1
+timeCreated: 1495062184
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: HARD_0
+    21300000: RETRY_0
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -87,7 +87,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HARD_0
+      name: RETRY_0
       rect:
         serializedVersion: 2
         x: 314
