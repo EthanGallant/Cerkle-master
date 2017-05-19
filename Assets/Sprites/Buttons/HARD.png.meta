@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: db800cc7051935948bcdf6997ad337e0
-timeCreated: 1495061918
+guid: 9af453b4a42ac93468e5f01cef57e618
+timeCreated: 1494039793
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -67,14 +67,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: iPhone
-    maxTextureSize: 2048
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
   - buildTarget: Android
     maxTextureSize: 2048
     textureFormat: -1
@@ -90,12 +82,12 @@ TextureImporter:
       name: HARD_0
       rect:
         serializedVersion: 2
-        x: 314
-        y: 271
-        width: 507
+        x: 315
+        y: 272
+        width: 509
         height: 97
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

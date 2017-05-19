@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 3424f298324aa774ab56b130da4950e8
-timeCreated: 1495062012
+guid: f127509b8dbf015469b2e4b40cadfb7e
+timeCreated: 1494039825
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -67,14 +67,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: iPhone
-    maxTextureSize: 2048
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
   - buildTarget: Android
     maxTextureSize: 2048
     textureFormat: -1
@@ -91,11 +83,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 315
-        y: 271
-        width: 506
+        y: 272
+        width: 509
         height: 97
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
